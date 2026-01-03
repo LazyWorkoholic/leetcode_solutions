@@ -1,8 +1,10 @@
-// 9_palindrome_number.cpp
-// LeetCode Problem: 9. Palindrome Number
+// Problem: LeetCode 9 - Palindrome Number
+// Technique: Math (Reverse Half of Number)
+// Time Complexity: O(log10(n))
+// Space Complexity: O(1)
+
 #include  <iostream>
 
-// Half number reverse method...
 class Solution {
 public:
     bool isPalindrome(int x) {
