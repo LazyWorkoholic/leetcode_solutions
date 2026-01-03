@@ -1,0 +1,21 @@
+# Compiled files
+*.out
+*.exe
+*.class
+
+# Python cache & env
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyter (if you ever try Pandas practice)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
